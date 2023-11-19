@@ -1,1 +1,3 @@
 conda_mac/
+train_split.txt
+val_split.txt
